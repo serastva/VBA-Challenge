@@ -15,6 +15,4 @@ You should also have conditional formatting that will highlight positive change 
 
 BONUS
 
-Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as
-
-follows:
+Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". 
